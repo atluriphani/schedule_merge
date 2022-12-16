@@ -1,0 +1,7 @@
+name: Schedule Merge
+description: "Schedule PR Merge"
+branding:
+  icon: "git-merge"
+  color: purple
+runs:
+  using: "node16"
